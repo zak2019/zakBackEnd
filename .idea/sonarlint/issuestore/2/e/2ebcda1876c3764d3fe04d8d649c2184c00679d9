@@ -1,0 +1,27 @@
+
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¿Ÿÿÿÿÿÿ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¿Ÿÿÿÿÿÿ
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¿Ÿÿÿÿÿÿ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¿Ÿÿÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¿Ÿÿÿÿÿÿ
+<
+java:S1452k"&Remove usage of generic wildcard type.(çöÑ·
+k
+java:S1128"IRemove this unused import 'com.zak.domain.model.RetroSprintCommentGroup'.(Éûüÿÿÿÿ8ê’œç/
+v
+java:S1128	"TRemove this unnecessary import: same package classes are always implicitly imported.(Â›Ùıúÿÿÿÿ8ë’œç/
+W
+java:S3655Z"ACall "updatedRetroSprint.isPresent()" before accessing the value.(åˆø
+Z
+java:S36559"?Call "savedRetroSprint.isPresent()" before accessing the value.(ÃİËÛùÿÿÿÿ
+W
+java:S3655e"ACall "updatedRetroSprint.isPresent()" before accessing the value.(åˆø
+W
+java:S3655D"ACall "updatedRetroSprint.isPresent()" before accessing the value.(åˆø
+W
+java:S3655O"ACall "updatedRetroSprint.isPresent()" before accessing the value.(åˆø

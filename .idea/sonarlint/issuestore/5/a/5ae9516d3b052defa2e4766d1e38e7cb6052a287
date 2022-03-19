@@ -1,0 +1,32 @@
+
+_
+java:S1128"IRemove this unused import 'com.zak.application.service.api.EventService'.(Œø•ş
+R
+java:S1128"7Remove this unused import 'com.zak.domain.model.Event'.(ª‡‰‘úÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'com.zak.domain.model.util.Criteria'.(Ø×·ıÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'com.zak.domain.model.util.PageGenerics'.(¹¸ïö
+a
+java:S1128	"FRemove this unused import 'com.zak.domain.model.util.ResponseContent'.(ëÒûûûÿÿÿÿ
+|
+java:S1128
+"fRemove this unused import 'com.zak.infrastructure.rest.controller.auth.payload.MessageResponseEntity'.(çÄ¤Û
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(„Îšşÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÉŠ¯şÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.format.annotation.DateTimeFormat'.(‡ˆôƒøÿÿÿÿ
+_
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+S
+java:S36556"8Call "eventType.isPresent()" before accessing the value.(½Âˆäşÿÿÿÿ
+S
+java:S3655="8Call "eventType.isPresent()" before accessing the value.(½Âˆäşÿÿÿÿ
+N
+java:S3655/"8Call "savedType.isPresent()" before accessing the value.(Ö«ã³
+N
+java:S3655)"8Call "savedType.isPresent()" before accessing the value.(Ö«ã³

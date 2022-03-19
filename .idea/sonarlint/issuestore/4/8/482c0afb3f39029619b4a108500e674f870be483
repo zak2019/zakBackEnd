@@ -1,0 +1,23 @@
+
+v
+java:S4144,"[Update this method so that its implementation is not identical to "createEvent" on line 32.(ÇŸ‚ßÿÿÿÿÿ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(Ó·‰Í
+K
+java:S1874?"0Remove this use of "setHours"; it is deprecated.(Ñëîûÿÿÿÿ
+M
+java:S1874@"2Remove this use of "setMinutes"; it is deprecated.(Œ½€ñþÿÿÿÿ
+M
+java:S1874A"2Remove this use of "setSeconds"; it is deprecated.(‰•ÆÌÿÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(ûÉð¯
+K
+java:S1874D"0Remove this use of "setHours"; it is deprecated.(»™˜“ùÿÿÿÿ
+G
+java:S1874E"2Remove this use of "setMinutes"; it is deprecated.(—¼¹H
+M
+java:S1874F"2Remove this use of "setSeconds"; it is deprecated.(á¾àÖýÿÿÿÿ
+G
+java:S1612X",Replace this lambda with a method reference.(‚×ñæüÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+M
+java:S36553"7Call "Optional#isPresent()" before accessing the value.(ÍÂ´‡

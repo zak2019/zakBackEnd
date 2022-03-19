@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adapter-persistence-in-memory" />
+        <module name="adapter-persistence-spring-data-jpa" />
+        <module name="adapter-persistence-spring-data-mongodb" />
+        <module name="adapter-provider" />
+        <module name="adapter-rest" />
+        <module name="application" />
+        <module name="bootloader" />
+        <module name="domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="adapter-persistence-in-memory" target="1.8" />
+      <module name="adapter-persistence-spring-data-jpa" target="1.8" />
+      <module name="adapter-persistence-spring-data-mongodb" target="1.8" />
+      <module name="adapter-provider" target="1.8" />
+      <module name="adapter-rest" target="1.8" />
+      <module name="application" target="1.8" />
+      <module name="bootloader" target="1.8" />
+      <module name="domain" target="1.8" />
+      <module name="infrastructure" target="1.8" />
+      <module name="zak" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

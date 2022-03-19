@@ -1,0 +1,44 @@
+
+O
+java:S1172q"2Remove this unused method parameter "retroSprint".( ï”¨8…öèè/
+[
+java:S1854"DRemove this useless assignment to local variable "savedRetroSprint".(¶°Ş“
+[
+java:S1854¨"?Remove this useless assignment to local variable "yellowGroup".(Ë¤ßĞúÿÿÿÿ
+X
+java:S1854§"<Remove this useless assignment to local variable "redGroup".(³‰ø£ÿÿÿÿÿ
+Z
+java:S1854¦">Remove this useless assignment to local variable "greenGroup".(Ñ¡šòıÿÿÿÿ
+T
+java:S1854¥"=Remove this useless assignment to local variable "blueGroup".(Ù³‘£
+^	java:S125ò"<This block of commented-out lines of code should be removed.(Øò¤½úÿÿÿÿ8¾ ¢ö/
+C
+java:S1602©",Remove useless curly braces around statement(‡Ôòë
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÚÉäŒê/
+U
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(Ó«¹‹
+
+java:S1488>"dImmediately return this expression instead of assigning it to the temporary variable "retroSprints".(Û¿…ûıÿÿÿÿ
+
+java:S1488E"dImmediately return this expression instead of assigning it to the temporary variable "retroSprints".(™ÄÊıÿÿÿÿÿ
+}
+java:S1488£"fImmediately return this expression instead of assigning it to the temporary variable "deleteResponse".(¢º–î
+W
+java:S1596d"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(‚î»–úÿÿÿÿ
+R
+java:S1596e"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(÷¢ı
+U
+java:S3655¶"9Call "greenGroup.isPresent()" before accessing the value.(ç’ºÜşÿÿÿÿ
+[
+java:S3655Ÿ"?Call "savedRetroSprint.isPresent()" before accessing the value.(§Şâ¡øÿÿÿÿ
+M
+java:S3655\"7Call "Optional#isPresent()" before accessing the value.(›şÎã
+d
+java:S3655ø"ACall "updatedRetroSprint.isPresent()" before accessing the value.(€È¤ğûÿÿÿÿ8Ì†ÛŒê/
+N
+java:S3655½"7Call "redGroup.isPresent()" before accessing the value.(Ëæş³
+O
+java:S3655¯"8Call "blueGroup.isPresent()" before accessing the value.(è¨Àô
+Q
+java:S3655Ä":Call "yellowGroup.isPresent()" before accessing the value.(ş²Øì

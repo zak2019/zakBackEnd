@@ -1,0 +1,13 @@
+
+
+java:S4144…"jUpdate this method so that its implementation is not identical to "getRetroSprintCommentGroup" on line 86.(…‚½®
+U
+java:S1854š">Remove this useless assignment to local variable "allComment".(°«­Æ
+P
+java:S4973µ"9Use the "equals" method if value comparison was intended.(Éä¿‚
+P
+java:S4973À"9Use the "equals" method if value comparison was intended.(Éä¿‚
+P
+java:S4973þ"9Use the "equals" method if value comparison was intended.(Éä¿‚
+N
+java:S3655Í"7Call "Optional#isPresent()" before accessing the value.(œÈœ÷

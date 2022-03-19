@@ -1,0 +1,3 @@
+com\zak\ZakApplicationLauncher.class
+com\zak\config\webSecurity\WebSecurityConfig.class
+com\zak\config\webSocket\WebSocketBrokerConfig.class

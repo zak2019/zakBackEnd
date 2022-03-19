@@ -1,0 +1,39 @@
+
+F
+java:S1874O"0Remove this use of "setHours"; it is deprecated.(·ÑÍÎ
+H
+java:S1874P"2Remove this use of "setMinutes"; it is deprecated.(›¿¡£
+M
+java:S1874Q"2Remove this use of "setSeconds"; it is deprecated.(§Ë±Šüÿÿÿÿ
+F
+java:S1874S"0Remove this use of "setHours"; it is deprecated.(ú•Íª
+M
+java:S1874T"2Remove this use of "setMinutes"; it is deprecated.(Ò¬Òúÿÿÿÿ
+H
+java:S1874U"2Remove this use of "setSeconds"; it is deprecated.(ÕûËù
+o
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¤Ó–
+o
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çá—
+B
+java:S1602u",Remove useless curly braces around statement(‡Ôòë
+N
+java:S1874"2Remove this use of "setSeconds"; it is deprecated.(…°§Ùøÿÿÿÿ
+C
+java:S1602¶",Remove useless curly braces around statement(‡Ôòë
+C
+java:S1602Ç",Remove useless curly braces around statement(Óßú±
+v
+java:S1128"YRemove this unused import 'org.springframework.messaging.simp.SimpMessageHeaderAccessor'.(Ü€¥ß8ĞÑ—œç/
+y
+java:S1128"\Remove this unused import 'org.springframework.messaging.simp.SimpMessageSendingOperations'.(’±¥Î8ÚÑ—œç/
+l
+java:S1128"ORemove this unused import 'org.springframework.messaging.simp.SimpMessageType'.(ø‹¦Ê8ÚÑ—œç/
+y
+java:S1488Y"^Immediately return this expression instead of assigning it to the temporary variable "events".(ŞÑÔ½ùÿÿÿÿ
+S
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¡ÿÛåşÿÿÿÿ
+K
+java:S3655Š"4Call "event.isPresent()" before accessing the value.(æà“
+K
+java:S3655 "4Call "event.isPresent()" before accessing the value.(æà“

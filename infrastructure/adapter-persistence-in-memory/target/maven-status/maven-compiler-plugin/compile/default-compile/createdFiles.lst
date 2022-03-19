@@ -1,0 +1,2 @@
+com\zak\infrastructure\persistence\inmemory\adapter\ProductInMemoryAdapter.class
+com\zak\infrastructure\persistence\inmemory\config\InMemoryAdapterConfiguration.class
